@@ -7,3 +7,4 @@ Git Commit Revert 1
 
 New file
 >>>>>>> c41696d5e1ae2b7f3c8fa1e8f3cd9a253c1ec90a
+This is Comparison lecture
