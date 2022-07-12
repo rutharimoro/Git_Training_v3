@@ -1,1 +1,9 @@
 This is Sample File 2
+
+<<<<<<< HEAD
+This is another commit for File 2
+=======
+Git Commit Revert 2
+>>>>>>> c41696d5e1ae2b7f3c8fa1e8f3cd9a253c1ec90a
+This is Comparison lecture, Change in File 2
+This is Stash lecture, Change in File 2

@@ -1,1 +1,15 @@
 This is Sample File 1
+
+
+
+The New York Times is an American daily newspaper based in New York City with a worldwide readership. It was founded in 1851 by Henry Jarvis Raymond and George Jones, and was initially published by Raymond, Jones & Company. Wikipedia
+
+
+New Commit for File 1
+Git Commit Revert 1
+
+New file
+
+This is Comparison lecture
+
+This is Stash lecture, Change in File 1
